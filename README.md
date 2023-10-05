@@ -1,4 +1,6 @@
-I am an accomplished Senior Java Engineer with a proven track record of designing and delivering robust, high-performance software solutions. With 8 years of experience in Java development, I excel in problem-solving, optimizing code, and ensuring adherence to coding best practices. I am passionate about mentoring and providing technical leadership to teams, contributing to architectural decisions, and delivering exceptional software products. My commitment to continuous learning and staying updated with industry trends enables me to deliver cutting-edge solutions in a dynamic software development landscape.
+<h1>About Me</h1>
+
+I explore topics related to software development, covering different phases of a Software Developer's career journey, from Junior Developers to Principal Engineers and beyond. These topics hold significant importance for me, not only as a programmer but also in the context of technical interview preparation and personal growth as a software developer. I aim to share these insights through the lens of my own experiences.
 <!---
 TheDevTales/TheDevTales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
